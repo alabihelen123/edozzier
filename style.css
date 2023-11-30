@@ -1,0 +1,106 @@
+*{
+    overflow-x: hidden;
+}
+
+.edozzier{
+    width: 30%;
+}
+.icon{
+    margin-left: 40px;
+}
+/* .ricon{
+    margin-left: 60px;
+} */
+.navy{
+  background-color: rgb(7, 7, 75);  
+}
+.navy{
+    color: white;
+}
+.white{
+  
+    background-color: #f1f3fe;
+}
+.here{
+    background-color: #aaaec5;
+    border-radius: 7%;
+    border: none;
+    padding: 6px;
+}
+.down{
+    padding-top: 110px;
+}
+.smart{
+    color: rgb(14, 14, 73);
+    font-size: 50px;
+}
+.an{
+    font-size: 20px;
+    color: #666;
+}
+.request{
+    background-color: white;
+    border: none;
+    border-radius: 6px;
+    padding: 10px;
+    font-weight: bold;
+    color: #0e0a47;
+    width: 20%;
+}
+.requested{
+    background-color:#0e0a47;
+    border: none;
+    border-radius: 6px;
+    padding: 10px;
+    font-weight: bold;
+    color: white;
+    width: 20%;
+}
+.fex{
+    display: flex;
+    gap: 10px;
+}
+.small{
+
+    margin-top: 70px;
+}
+.center{
+    background-color: #ffffff;
+    margin: 30px;
+}
+.rome{
+    text-align: center;
+    color: #0e0a47;
+}
+.romes{
+    text-align: center;
+    color: #666;
+}
+.romess{
+    color: #0e0a47;
+    text-decoration: none;
+    text-align: center;
+    
+}
+.romess :hover{
+    color: rgb(125, 125, 208);
+}
+.learn{
+    text-decoration: none;
+    color: #0e0a47;
+    font-size: larger;
+}
+
+.more{
+    margin-top: 30px;
+}
+.more :hover{
+    background-color:#0e0a47 ;
+    color: white;
+}
+.big{
+    width: 90%;
+}
+.gid{
+    background-color: #aaaec5;
+}
